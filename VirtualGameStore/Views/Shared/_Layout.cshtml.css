@@ -1,0 +1,40 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px;
+}
+
+.svg-icon {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.svg-icon path {
+    fill: #d8dee9;
+    stroke: #d8dee9;
+    stroke-width: 2%;
+}
+.svg-icon:hover > path {
+    fill: #eceff4;
+    stroke: #eceff4;
+}
+
+.navbar-toggler {
+    border: 0;
+}
